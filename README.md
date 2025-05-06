@@ -1,3 +1,3 @@
 # SimpleCalculatorPython
-A simple calculator using python
-the code is the master branch
+A simple calculator using python.
+The code is the master branch
